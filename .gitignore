@@ -6,8 +6,6 @@ out/
 .idea/
 
 # Managed as a separate Git repository
-/schedulr-java/
-
 ### Eclipse ###
 .apt_generated
 .classpath
